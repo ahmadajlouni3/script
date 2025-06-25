@@ -1,0 +1,12 @@
+{
+  "name": "my-netlify-proxy",
+  "version": "1.0.0",
+  "engines": {
+    "node": "18"
+  },
+  "dependencies": {
+    "jsdom": "^21.1.0",
+    "node-fetch": "^2.6.7",
+    "fetch-cookie": "^0.7.4"
+  }
+}
